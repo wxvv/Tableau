@@ -1,0 +1,10 @@
+BLUE: discrete
+GREEN: continuous
+# The color DOES NOTrepresent measures or dimensions
+
+Right click: hide and reset shelves
+
+command + z: redo
+# Don't forget! This is extremely useful!
+
+2 ways to save the workbook: .twb (w/o data), .twbx (with data)
