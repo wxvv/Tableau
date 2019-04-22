@@ -8,3 +8,24 @@ command + z: redo
 # Don't forget! This is extremely useful!
 
 2 ways to save the workbook: .twb (w/o data), .twbx (with data)
+
+
+12. Differences between DISCRETE and CONTINUOUS:
+FORM:                      individually seperate | unbroken whole
+FILTERED:                  filtered individually | in a range
+NATURE:                    countable             | measureable
+GENERALLY ADDS "" TO VIEW: header                | axes
+BRINGS:                    level of detail       | aggregated number
+
+
+13. STRING, BOOLEAN cannot be continuous
+Can turn a discrete into a continous one; cannot sort continuous values
+
+
+14. DISC & CONT BONUS
+create a calculated field: 
+IF SUM ([Quantity]) > 2000 THEN 'Good'
+ELSE 'Bad'
+END
+
+15. Aggregation
