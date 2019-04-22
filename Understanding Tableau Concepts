@@ -1,6 +1,6 @@
 BLUE: discrete
 GREEN: continuous
-# The color DOES NOTrepresent measures or dimensions
+# The color DOES NOT represent measures or dimensions
 
 Right click: hide and reset shelves
 
@@ -33,3 +33,8 @@ END
 By default, Tableau aggregates measures, so we can disable it by Analysis > Aggregate measures (undo)
 The default aggregation function of [sales, xxx] is SUM
 If we want to change the default setting, go to [Sales] > Default Properties > Aggregation > xxx
+
+
+16. Granularity
+"Break your data point into small pieces"
+Total = a * b * c * ...
