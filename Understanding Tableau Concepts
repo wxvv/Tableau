@@ -38,3 +38,8 @@ If we want to change the default setting, go to [Sales] > Default Properties > A
 16. Granularity
 "Break your data point into small pieces"
 Total = a * b * c * ...
+
+
+QUIZ Problem:
+Which field brings a color palette if you add it to color mark?
+-- DISCRETE DISCRETE DISCRETE (not dimension here)
