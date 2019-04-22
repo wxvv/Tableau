@@ -10,7 +10,7 @@ command + z: redo
 2 ways to save the workbook: .twb (w/o data), .twbx (with data)
 
 
-12. Differences between DISCRETE and CONTINUOUS:
+12. Differences between                DISCRETE and CONTINUOUS:
 FORM:                      individually seperate | unbroken whole
 FILTERED:                  filtered individually | in a range
 NATURE:                    countable             | measureable
@@ -28,4 +28,8 @@ IF SUM ([Quantity]) > 2000 THEN 'Good'
 ELSE 'Bad'
 END
 
+
 15. Aggregation
+By default, Tableau aggregates measures, so we can disable it by Analysis > Aggregate measures (undo)
+The default aggregation function of [sales, xxx] is SUM
+If we want to change the default setting, go to [Sales] > Default Properties > Aggregation > xxx
