@@ -1,1 +1,20 @@
+19.                LIVE vs EXTRACT
+                  1 can | 2 cans
+when #s must be correct | #s are not so important
 
+
+20. Practice
+the extension of an extracted file is .hyper
+
+
+21. To save a data source:
+Double click data > Add to saved data sources > xxx.tds or the other one > Then it'll appear on the start page
+  All extensions
+project without data : .twb                                  with data : .twbx 
+directory of data source + modification without data: .tds   with data: .tdsx   （calculated fields）
+extract: .hyper
+            
+            
+22. Union
+Need same # of columns and same column names and same data types
+There will be 1+ question about union: sales for 2018 and 2019, DON'T FORGET TO UNION THE TABLES!
