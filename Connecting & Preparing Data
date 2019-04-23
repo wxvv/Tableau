@@ -3,13 +3,14 @@
 when #s must be correct | #s are not so important
 
 
-20. Practice
+20. Live vs Extract Practice
 the extension of an extracted file is .hyper
 
 
 21. To save a data source:
 Double click data > Add to saved data sources > xxx.tds or the other one > Then it'll appear on the start page
-  All extensions
+ 
+All extensions:
 project without data : .twb                                  with data : .twbx 
 directory of data source + modification without data: .tds   with data: .tdsx   （calculated fields）
 extract: .hyper
