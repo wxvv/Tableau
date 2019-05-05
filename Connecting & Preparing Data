@@ -19,3 +19,24 @@ extract: .hyper
 22. Union
 Need same # of columns and same column names and same data types
 There will be 1+ question about union: sales for 2018 and 2019, DON'T FORGET TO UNION THE TABLES!
+
+
+----------------------------------------------------------------------------------------------------------------
+Forget where I was the last time, so I'll ignore the number and just start from whatever session I have for now
+
+# Join
+Choose your priority; left (outer) join, right (outer) join; no-matches remain NULL; inner join, only matched rowsross
+
+# Cross database join:
+Connect to different datasources first; primary is blue, secondary is orange
+
+# Blending
+Similar to join, but becomes useful if:
+  cross database join isn't supported (Google Analytics);
+  tables are at different level of detail: first is at order level, second is at daily level;
+  join creates duplicate data or data cleaning is required;
+  if you have a lot of data, joins take much time
+1 or 2 theoretical questions about blending, may not be hands-on
+Data > Edit relationships > Custom your relationship...
+## Make sure to watch this part one more time
+  
