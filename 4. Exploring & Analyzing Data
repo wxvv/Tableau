@@ -1,3 +1,5 @@
+*: IMPORTANT SESSION
+
 32. Create Charts - Show Me
 Q mightb be: which field you need to create a map
 Right click > many features there (not required for the exam)
@@ -13,3 +15,22 @@ Using colors in the sheet title helps save space (can hide legend)
 Q: use text table to find values
 
 *35. - Organize data (Group)
+Different ways to create groups
+OR from dimensions/measures, right click > create > group > find members balabala
+
+36. - Organize data (Static Set)
+static set = fixed set, members do not change
+Select > right click > create set
+In: elements in the set   Out: elements not in the set
+right click element > set icon to add/remove . Members do not add automatically, so... 
+can also right click > show members in the set rather than In/Out
+
+*37. - Organize data (Dynamic Set)
+members cab change over time
+right click > create > set > 3 ways to filter
+
+38. Organize data (Parameter)
+In data panel, right click > create parameter; right click Parameter > show parameter control
+also need to link parameter to the field: (prefer creating parameter first, then link it)
+Parameter first, then create a set and link it to the parameter created
+combine 2 sets to see TOP+BOTTOM together: right c > create combined > choose the ones needed 
