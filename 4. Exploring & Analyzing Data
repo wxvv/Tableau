@@ -34,3 +34,22 @@ In data panel, right click > create parameter; right click Parameter > show para
 also need to link parameter to the field: (prefer creating parameter first, then link it)
 Parameter first, then create a set and link it to the parameter created
 combine 2 sets to see TOP+BOTTOM together: right c > create combined > choose the ones needed 
+
+39. Hierarchy
+just drag a field and drop it to the top of another...
+Date hier: year, quarter, month, week, date, time
+Location: country, state, city, street name, street number
+Categorical: category, subcategory, item
+
+40. Filters 
+discrete & continuous
+
+42. Analytics - Reference line
+Represents a number > can only add the line to continuous fields
+For the fast way, right click x axis > add reference line
+
+43. band (bonus)
+will have 2 values: minimum & maximum
+
+44. trend line
+Go to Analytics panel > drag trend line & pick what fits the best
