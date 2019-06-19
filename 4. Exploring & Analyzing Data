@@ -22,21 +22,21 @@ OR from dimensions/measures, right click > create > group > find members balabal
 static set = fixed set, members do not change
 Select > right click > create set
 In: elements in the set   Out: elements not in the set
-right click element > set icon to add/remove . Members do not add automatically, so... 
-can also right click > show members in the set rather than In/Out
+Right click element > set icon to add/remove . Members do not add automatically, so... 
+Can also right click > show members in the set rather than In/Out
 
 *37. - Organize data (Dynamic Set)
-members cab change over time
-right click > create > set > 3 ways to filter
+Members cab change over time
+Right click > create > set > 3 ways to filter
 
 38. Organize data (Parameter)
 In data panel, right click > create parameter; right click Parameter > show parameter control
-also need to link parameter to the field: (prefer creating parameter first, then link it)
+Also need to link parameter to the field: (prefer creating parameter first, then link it)
 Parameter first, then create a set and link it to the parameter created
-combine 2 sets to see TOP+BOTTOM together: right c > create combined > choose the ones needed 
+Combine 2 sets to see TOP+BOTTOM together: right c > create combined > choose the ones needed 
 
 39. Hierarchy
-just drag a field and drop it to the top of another...
+Just drag a field and drop it to the top of another...
 Date hier: year, quarter, month, week, date, time
 Location: country, state, city, street name, street number
 Categorical: category, subcategory, item
@@ -44,12 +44,20 @@ Categorical: category, subcategory, item
 40. Filters 
 discrete & continuous
 
+41. Analytics - Manual & Computed sort
+
 42. Analytics - Reference line
 Represents a number > can only add the line to continuous fields
 For the fast way, right click x axis > add reference line
 
 43. Reference band (bonus)
-will have 2 values: minimum & maximum
+Will have 2 values: minimum & maximum
 
 44. Analytics - Trend line
 Go to Analytics panel > drag trend line & pick what fits the best
+
+45. Analytics - Table calculation
+
+46. Analytics - Calculated field I
+
+47. Analytics - Calculated field II
