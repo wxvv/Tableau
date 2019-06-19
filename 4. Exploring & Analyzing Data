@@ -64,6 +64,11 @@ Moving average: SUM(total years) / # of years
 Might be imp't in the exam: percent of total, rank 
 
 46. Analytics - Calculated field I
-
+Use '' "" rather than ‘’ “”
 
 47. Analytics - Calculated field II
+Logical functions - conditions
+IF  THEN
+ELSE
+END       (can also use (IIF([Profit]>0, 'Profit', 'Loss'))  )
+more than 2: IF / THEN / ELSEIF / THEN / ELSE / END
