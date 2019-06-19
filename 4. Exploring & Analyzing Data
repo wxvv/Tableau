@@ -57,7 +57,13 @@ Will have 2 values: minimum & maximum
 Go to Analytics panel > drag trend line & pick what fits the best
 
 45. Analytics - Table calculation
+Represented by a triangle in the field
+EX: right click sales > quick table calculation > percentage of total
+Analysis > Totals > Show column grand totals, can show totals of both sale value & percentage
+Moving average: SUM(total years) / # of years
+Might be imp't in the exam: percent of total, rank 
 
 46. Analytics - Calculated field I
+
 
 47. Analytics - Calculated field II
