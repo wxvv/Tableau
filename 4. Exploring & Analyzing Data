@@ -24,6 +24,7 @@ Select > right click > create set
 In: elements in the set   Out: elements not in the set
 Right click element > set icon to add/remove . Members do not add automatically, so... 
 Can also right click > show members in the set rather than In/Out
+Combine: right click set > create combined set > choose the rest...
 
 *37. - Organize data (Dynamic Set)
 Members cab change over time
@@ -64,7 +65,8 @@ Moving average: SUM(total years) / # of years
 Might be imp't in the exam: percent of total, rank 
 
 46. Analytics - Calculated field I
-Use '' "" rather than ‘’ “”
+check the screenshot
+In string function: use '' "" rather than ‘’ “”
 
 47. Analytics - Calculated field II
 Logical functions - conditions
@@ -72,3 +74,8 @@ IF  THEN
 ELSE
 END       (can also use (IIF([Profit]>0, 'Profit', 'Loss'))  )
 more than 2: IF / THEN / ELSEIF / THEN / ELSE / END
+Q might be: which of the following functions are aggregated function / table calculation ... 
+
+48. Analytics - Parameter 2 - histogram & bin
+only need 1 continuous field
+
