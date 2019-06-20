@@ -3,6 +3,8 @@ BLUE: discrete
 GREEN: continuous
 # The color DOES NOT represent measures or dimensions
 
+CSV is a text file, not excel file
+
 Right click: hide and reset shelves
 
 command + z: redo
