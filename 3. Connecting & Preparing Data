@@ -44,4 +44,7 @@ Data > Edit relationships > Custom your relationship...
 To better arrange columns: right click name > split(custom split)
 Right click > Default properties > then change whatever you want
 Right click > Aliases > Change name here? 
+
+## ALIASES: like alternative names for the members in a dimension
+   CANNOT BE CREATED FOR CONT. DIMENSIONS, DATES, AND MEASURES
   
