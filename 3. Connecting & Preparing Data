@@ -17,7 +17,7 @@ extract: .hyper
             
             
 22. Union
-Need same # of columns and same column names and same data types
+Need same # of columns and same column names and same data types, can union 2+ tables
 There will be 1+ question about union: sales for 2018 and 2019, DON'T FORGET TO UNION THE TABLES!
 
 
