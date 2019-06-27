@@ -25,18 +25,25 @@ There will be 1+ question about union: sales for 2018 and 2019, DON'T FORGET TO 
 Forget where I was the last time, so I'll ignore the number and just start from whatever session I have for now
 
 # Join
-Choose your priority; left (outer) join, right (outer) join; no-matches remain NULL; inner join, only matched rowsross
+Choose your priority; left (outer) join, get ALL the data from table on the left
+                      right (outer) join, get ALL data from table on the right
+                      no-matches remain NULL
+                      inner join, only matched rows
+                      FULL join, no primary table (both are equally important), get all data from both table
 
 # Cross database join:
+happens when data are from different data sources
 Connect to different datasources first; primary is blue, secondary is orange
+from Data Source page > close to connection, choose Add > then add a second data source
 
 # Blending
 Similar to join, but becomes useful if:
   cross database join isn't supported (Google Analytics);
-  tables are at different level of detail: first is at order level, second is at daily level;
-  join creates duplicate data or data cleaning is required;
+  tables are at different LOD (can from diff or the same data source): first is at order level, second is at daily level;
+  join creates duplicate data OR data cleaning is required;
   if you have a lot of data, joins take much time
 1 or 2 theoretical questions about blending, may not be hands-on
+Don't use connection add, but go to start page & add a separate connection, now workspace will have 2 connections
 Data > Edit relationships > Custom your relationship...
 ## Make sure to watch this part one more time
 
