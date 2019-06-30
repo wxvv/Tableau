@@ -46,6 +46,7 @@ Similar to join, but becomes useful if:
 Don't use connection add, but go to start page & add a separate connection, now workspace will have 2 connections
 Data > Edit relationships > Custom your relationship...
 ## Make sure to watch this part one more time
+Q: In blending, if common dimensions don’t have the same name (ex "Product_Sub_Category" and "ProductSubCategory"), renaming one will let Tableau to identify and establish the link.
 
 # Manage Data
 To better arrange columns: right click name > split(custom split)
