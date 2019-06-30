@@ -8,9 +8,11 @@ Right click > many features there (not required for the exam)
 Crosstab = Text Table = Pivot Table
 
 *34. 
-To change from discrete to continuous: option + drag + right click, will show drop field then
+DROP FIELD: change from discrete to continuous: option + drag + right click, will show drop field then
+Drag A to B axis to create a combined axis chart
 Combined axes chart = Shared axes chart
 Combination chart = Dual axis chart
+Better sync 2 charts: clicking the axis on the R
 Using colors in the sheet title helps save space (can hide legend)
 Q: use text table to find values
 
@@ -27,7 +29,7 @@ Can also right click > show members in the set rather than In/Out
 Combine: right click set > create combined set > choose the rest...
 
 *37. - Organize data (Dynamic Set)
-Members cab change over time
+Members can change over time
 Right click > create > set > 3 ways to filter
 
 ### Set are more advanced than groups!
@@ -81,6 +83,10 @@ ELSE
 END       (can also use (IIF([Profit]>0, 'Profit', 'Loss'))  )
 more than 2: IF / THEN / ELSEIF / THEN / ELSE / END
 Q might be: which of the following functions are aggregated function / table calculation ... 
+# LOD calculations:
+                  FIXED: most powerful, compute only specified dimensions, making the aggregated function based on fixed specific dimension 
+                  INCLUDE: computes an aggregate using specified & view dimensions, include dimension to the current view
+                  EXCLUDE: excluding the specified dimension if present in the view; excludes a dimension from the view
 
 48. Analytics - Parameter 2 - histogram & bin
 only need 1 continuous field
